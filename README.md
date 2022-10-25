@@ -18,9 +18,9 @@
 </p>
 
 ## 🧑 About me:
+  <p><b>Email:</b> dreamdev37@gmail.com</p>
   <p><b>Email:</b> hidev237@gmail.com</p>
   <p><b>Skype:</b> live:.cid.ebcb0a4e7562a66d</p>
-  <p><b>Skype:</b> live:.cid.df0c21756843ecff</p>
   <p><b>Telegram:</b> https://t.me/hidevteam</p>
   <p><b>SMS Phone:</b> +15078734270</p>
 

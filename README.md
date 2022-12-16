@@ -18,7 +18,7 @@
 </p>
 
 ## 🧑 About me:
-  <p><b>Email:</b> dreamdev37@gmail.com</p>
+  <p><b>Email:</b> hidevteam37@gmail.com</p>
   <p><b>Email:</b> hidev237@gmail.com</p>
   <p><b>Skype:</b> live:.cid.ebcb0a4e7562a66d</p>
   <p><b>Telegram:</b> https://t.me/hidevel</p>

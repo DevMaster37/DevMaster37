@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋👋👋👋👋 <b>Welcome to HiDevTeam</b> 👋👋👋👋👋
+  👋👋👋👋👋 <b>Welcome to HiDev's</b> 👋👋👋👋👋
 </h2>
 
 <h4 align='center'>

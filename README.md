@@ -68,25 +68,25 @@
 	
   <summary><b>🔎 Github Profile Details</b></summary>
   <br/>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMaster-HK&theme=github_dark" alt="DevMaster-HK" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMaster37&theme=github_dark" alt="DevMaster37" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMaster-HK&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="DevMaster-HK" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMaster-HK&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="DevMaster-HK" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMaster37&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="DevMaster37" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMaster37&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="DevMaster37" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
  <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMaster-HK&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="DevMaster-HK" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMaster37&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="DevMaster37" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
 <br/>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DevMaster-HK&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DevMaster37&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
  <br/>
-<p align="center"> <a href="https://github.com/DevMaster-HK"><img src="https://github-profile-trophy.vercel.app/?username=DevMaster-HK&margin-w=5&theme=radical" alt="DevMaster-HK" /></a> </p>
+<p align="center"> <a href="https://github.com/DevMaster37"><img src="https://github-profile-trophy.vercel.app/?username=DevMaster37&margin-w=5&theme=radical" alt="DevMaster37" /></a> </p>
 
 <br>
 
